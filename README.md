@@ -8,12 +8,15 @@
 
 # Things Im Working on:
 
+```
 > Python
 > Java
 > JavaScript
 > HTML & CSS
 > Flutter/Dart
 > Lua
+> C#
+```
 
 <!--
 **Bumblebee99YT/Bumblebee99YT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
