@@ -26,6 +26,13 @@ most used s-s-social things :P</p>
 </div>
 <br>
 <div>
+</div>
+<h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
+<div align="center">
+<img src="https://thumbs.gfycat.com/ElderlyNiceIsopod-size_restricted.gif">
+</div>
+<hr>
+</div>
 <!--
 **Bumblebee99YT/Bumblebee99YT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 **You have found a secret... add me on discord now Bumblebee99#3818
