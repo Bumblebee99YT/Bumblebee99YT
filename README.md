@@ -22,7 +22,7 @@
 <br>
 <p align="center">Here are some of my <br>
 most used social things 😏</p>
-<p align="center"><a href="https://discord.gg/R8UkwPdfjh" target="_blank"><img src="https://img.shields.io/badge/Bumblebee99%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a><a href="https://open.spotify.com/user/4pzyy04rw35evuqzx3wgfrfaf" target="_blank"><img src="https://img.shields.io/badge/Bumblebee99%20-%237289DA.svg?&style=for-the-badge&logo=spotify&logoColor=white"/></a></p>
+<p align="center"><a href="https://discord.gg/R8UkwPdfjh" target="_blank"><img src="https://img.shields.io/badge/Bumblebee99%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a> <a href="https://open.spotify.com/user/4pzyy04rw35evuqzx3wgfrfaf" target="_blank"><img src="https://img.shields.io/badge/Bumblebee99%20-%1DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white"/></a></p>
 </div>
 <br>
 <div>
