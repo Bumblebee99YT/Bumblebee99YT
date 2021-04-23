@@ -17,11 +17,12 @@
 > Lua
 > C#
 ```
-
+<br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bumblebee99YT&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bumblebee99YT&amp;layout=compact&amp;theme=radical)](https://github.com/ledgement/)
 
+<br>
 <h2>           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
 <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
 <br>
