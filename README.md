@@ -6,6 +6,10 @@
 
 ---
 
+![cool-gif-i-think](https://github.com/Bumblebee99YT/Bumblebee99YT/blob/main/e.gif)
+
+---
+
 # Things Im Working on:
 
 ```
