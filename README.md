@@ -1,8 +1,4 @@
-### Coding makes me
-
-#### YES
-
----
+**"Coding makes me yes"**
 
 # Things Im Working on:
 
