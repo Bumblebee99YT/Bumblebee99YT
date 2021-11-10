@@ -1,12 +1,6 @@
-![Matrix SVG](https://raw.githubusercontent.com/Bumblebee99YT/Bumblebee99YT/master/matrix.svg)
-
 ### Coding makes me
 
 #### YES
-
----
-
-![cool-gif-i-think](https://github.com/Bumblebee99YT/Bumblebee99YT/blob/main/e.gif)
 
 ---
 
@@ -16,6 +10,7 @@
 > Python
 > Java
 > JavaScript
+> TypeScript
 > HTML & CSS
 > Flutter/Dart
 > Lua
