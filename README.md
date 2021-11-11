@@ -19,8 +19,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bumblebee99YT&amp;layout=compact&amp;theme=radical)](https://github.com/ledgement/)
 
----
-
 <h2>           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
 <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
 <br>
@@ -35,7 +33,6 @@ most used social things 😏</p>
 <div align="center">
 <img src="https://thumbs.gfycat.com/ElderlyNiceIsopod-size_restricted.gif">
 </div>
-<hr>
 </div>
 <!--
 **Bumblebee99YT/Bumblebee99YT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
