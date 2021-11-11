@@ -13,8 +13,6 @@
 > C#
 ```
 
----
-
 # ]|I{•------»   🎀  𝐒𝐭𝐚𝐭𝐬  🎀   »------•{I|]
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bumblebee99YT&show_icons=true&theme=radical)
